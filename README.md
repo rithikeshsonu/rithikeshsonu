@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **CSS, Bootstrap, PHP, JavaScript**
 
-- 📫 How to reach me **rithikeshsonu13@gmail.com**
+- 📫 How to reach me? **rithikeshsonu13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
