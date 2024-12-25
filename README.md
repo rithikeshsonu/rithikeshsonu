@@ -1,29 +1,87 @@
-![Masterhead](https://www.digitalpush.net/assets/img/100-days-of-code.jpg)
-<h1 align="center">Hi 👋, I'm Rithikesh Surthi</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img src = "https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align = "right" alt= "coding" width = "400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rithikeshsonu&label=Profile%20views&color=0e75b6&style=flat" alt="rithikeshsonu" /> </p>
+# **RITHIKESH SURTHI** (He/Him)  
+### **Software Developer**  
+📧 **rithikeshsonu13@gmail.com** | 📱 **+91-8106550803** | [LinkedIn](https://www.linkedin.com/in/rithikesh-surthi) | [Certifications](#)
 
-<p align="left"> <a href="https://twitter.com/sonuhrithik0813" target="blank"><img src="https://img.shields.io/twitter/follow/sonuhrithik0813?logo=twitter&style=for-the-badge" alt="sonuhrithik0813" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Building full Stack Applications**
+## **SUMMARY**
 
-- 🌱 I’m currently learning **CSS, Bootstrap, PHP, JavaScript**
+I’m a **.NET developer** with **4 years** of experience working with C#, **ASP.NET**, and a ton of tech that makes the digital world spin. From **monolithic** to **microservices**, I've seen it all. I write **clean code**, hunt down bugs like they’re my arch-nemesis, and generally spend my days crafting smooth, scalable apps. And I do all of this with a side of fun and plenty of caffeine ☕ (obviously).
 
-- 📫 How to reach me? **rithikeshsonu13@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sonuhrithik0813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonuhrithik0813" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rithikesh surthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithikesh surthi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rithikesh surthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rithikesh surthi" height="30" width="40" /></a>
-</p>
+## **WORK EXPERIENCE**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### **Sails Software Solutions** *(Apr '24 - Present)*  
+Where the magic happens… aka **backend engineering heaven**:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithikeshsonu&show_icons=true&locale=en&layout=compact" alt="rithikeshsonu" /></p>
+- Developed **Web APIs** that power a bunch of apps, ensuring they run faster than a cheetah on Red Bull 🐆☕.
+- **Cross-functional teamwork**: It's like a team sport, but with fewer balls and more code.
+- I occasionally dabble in **front-end projects with Angular** – because who says back-end devs can't be **designers** too? 😉
+- Implemented **JWT Bearer tokens and Auth0** for authentication and authorization – so secure, even Fort Knox would be jealous 🔐.
+- Played with **Elasticsearch**, **Kafka**, **MySQL**, and **Azure**, and even got to feel like a cloud wizard ☁️.
+- Migrated **deprecated Elasticsearch packages** to new ones, giving them a much-needed makeover 💅.
+- Managed **Docker** deployments, because containers are basically like code in a box (that’s a good thing).
+- Bug fixing? Let’s just say I don’t allow bugs in my code unless they’re **Easter eggs**. 🐞
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithikeshsonu&show_icons=true&locale=en" alt="rithikeshsonu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithikeshsonu&" alt="rithikeshsonu" /></p>
+### **NTT Data Information Processing Services** *(Feb '21 – Apr '24)*  
+Where I fine-tuned my **SQL wizardry** and became a **C# superhero**:
+
+- Designed and developed **single-page apps** with **HTML5**, **CSS3**, and **C#**, all while making sure the user experience was smoother than butter on a hot pan 🍞🧈.
+- Optimized **SQL Server queries** (saving **60 minutes** of manual work daily) – turning slow queries into speed demons 🏎️.
+- Created **stored procedures**, triggers, and views like a chef perfecting their secret sauce 🍲.
+- Worked on **SQL performance tuning** – reducing lag, boosting efficiency, and making everything *faster* than a caffeine-fueled sprint 🏃‍♂️💨.
+- Got involved in **production incident resolutions**, ensuring that the system stayed up, and issues stayed down (but not my spirits 😅).
+- Took part in **Agile sprints** like an Olympic sprinter 🏅.
+
+#### **Achievements**:  
+- Played a pivotal role in a high-stakes **client meeting** with the CEO and 600 employees. Result? **Perfect client satisfaction** – smooth as silk ✨.
+- Completed **75+ Behavioral Trainings** (because you can never have too many soft skills, right? 💼).
+
+---
+
+## **TECHNICAL SKILLS**
+
+### **Languages & Technologies**:
+- **Languages**: RESTful APIs, C#, ASP.NET, MVC, Entity Framework, Dapper, Web API, Razor, SQL Server, Microsoft Azure
+- **Tools**: Git, GitHub, Postman, Kibana, Splunk, New Relic, Datadog, ServiceNow, Jira, Confluence
+- **IDEs**: VS Code, Visual Studio (2015/2019/2022), SQL Server Management Studio (SSMS)
+
+---
+
+## **PROJECT(S) OF INTEREST**  
+
+- **LinkedIn Articles**: Not just a developer but a tech communicator. I publish **technical articles** and have **4,000+ followers** on LinkedIn (I’m kind of a big deal, not gonna lie 😎).
+
+---
+
+## **EDUCATION**
+
+**CMR Institute of Technology** – **B. Tech in Computer Science and Engineering**  
+Hyderabad, India | **2016 – 2020**  
+
+- **Extra-Curriculars**: Founded a club called 'Hitchhikers' because why should coding be the only adventure? Let’s make some **real-life code** together 🌍.
+
+---
+
+## **FUN FACTS**  
+
+- When I’m not diving deep into code, I’m probably wondering where that missing sock went (seriously, where do they go?) 🧦.
+- Strong believer in **work-life balance** – because without it, you just become one big code compiler 🧑‍💻.
+- Forever hunting for the perfect cup of **coffee**. If you’ve got a secret recipe, hit me up ☕✨.
+- Currently learning **Design Patterns** because I’m on a quest to be a **coding Jedi**. May the code be with you ✨.
+- I can say "I love you" in **20 programming languages**. ❤️
+
+---
+
+## **PROGRAMMING JOKE OF THE DAY** 😄
+
+> Q. What's the difference between C++ and C?  
+> A. Just 1.
+
+
+---
+
+Thanks for reading! Let’s build something **awesome** together – one line of code at a time. 💻🚀
