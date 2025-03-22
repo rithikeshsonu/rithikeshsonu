@@ -9,7 +9,7 @@
 
 I’m a **.NET developer** with **4 years** of experience working with C#, **ASP.NET**, and a ton of tech that makes the digital world spin. From **monolithic** to **microservices**, I've seen it all. I write **clean code**, hunt down bugs like they’re my arch-nemesis, and generally spend my days crafting smooth, scalable apps. And I do all of this with a side of fun and plenty of caffeine ☕ (obviously).
 
---
+-
 
 ## **WORK EXPERIENCE**
 
