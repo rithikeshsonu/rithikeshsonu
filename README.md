@@ -3,7 +3,6 @@
 📧 **rithikeshsonu13@gmail.com** | 📱 **+91-8106550803** | [LinkedIn](https://www.linkedin.com/in/rithikesh-surthi) | [Certifications](#)
 
 -
--
 
 ## **SUMMARY**
 
